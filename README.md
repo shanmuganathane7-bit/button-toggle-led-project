@@ -1,2 +1,2 @@
 # button-toggle-led-project
-this is my second project of led toggle with push button using tinkercad
+This project demonstrates an LED toggle mechanism using a push button with Arduino, designed and simulated in Tinkercad.
